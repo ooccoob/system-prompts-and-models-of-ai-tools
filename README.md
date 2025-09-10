@@ -64,6 +64,7 @@ You can show your support via:
 - [**Perplexity**](./Perplexity/)
 - [**Cluely**](./Cluely/)
 - [**Xcode**](./Xcode/)
+- [**Notion AI**](./NotionAi/)
 - [**Orchids.app**](./Orchids.app/)
 - [**Junie**](./Junie/)
 - [**Kiro**](./Kiro/)
@@ -86,7 +87,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 27/08/2025
+> **Latest Update:** 08/09/2025
 
 ---
 
