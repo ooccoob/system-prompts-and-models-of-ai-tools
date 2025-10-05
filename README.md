@@ -31,6 +31,8 @@
 
 📜 Over **20,000+ lines** of insights into their structure and functionality.  
 
+⭐ **Star to follow updates**
+
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
@@ -101,6 +103,8 @@ You can show your support via:
 - [**CodeBuddy**](./CodeBuddy%20Prompts/)
 - [**Poke**](./Poke/)
 - [**Comet Assistant**](./Comet%20Assistant/)
+- [**Anthropic**](./Anthropic/)
+- [**Amp**](./AMp/)
 
 ---
 
@@ -108,7 +112,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 25/09/2025
+> **Latest Update:** 02/10/2025
 
 ---
 
