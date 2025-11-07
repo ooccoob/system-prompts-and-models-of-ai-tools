@@ -5,18 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship">
+  <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">
     <img src="assets/Latitude_logo.png" alt="Latitude Logo" width="700"/>
   </a>
 </p>
 
 <div align="center" markdown="1">
 
-### [The tools you need for building reliable Agents and Prompts](https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship)  
-[Open Source AI Engineering Platform](https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship)<br>
+### <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">The tools you need for building reliable Agents and Prompts</a>  
+<a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Open Source AI Engineering Platform</a><br>
 
 </div>
-
 
 ---
 
@@ -29,7 +28,7 @@
 
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-📜 Over **20,000+ lines** of insights into their structure and functionality.  
+📜 Over **30,000+ lines** of insights into their structure and functionality.  
 
 ⭐ **Star to follow updates**
 
@@ -44,7 +43,7 @@ If you find this collection valuable and appreciate the effort involved in obtai
 
 You can show your support via:
 
-- **PayPal:** `lucknitelol@proton.me`
+- **PayPal:** `lucknitelol@pm.me`
 - **Cryptocurrency:**  
   - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
   - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
@@ -62,7 +61,7 @@ You can show your support via:
 
 Sponsor the most comprehensive collection of AI system prompts and reach thousands of developers building the next generation of AI applications.
 
-[Get Started](https://www.promptleaks.dev/sponsor)
+[Get Started](mailto:lucknitelol@proton.me)
 
 ---
 
@@ -122,7 +121,7 @@ Sponsor the most comprehensive collection of AI system prompts and reach thousan
 
 > Open an issue.
 
-> **Latest Update:** 12/10/2025
+> **Latest Update:** 19/10/2025
 
 ---
 
