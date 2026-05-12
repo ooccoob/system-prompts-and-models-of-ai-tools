@@ -1,4 +1,22 @@
 <p align="center">
+  <sub>Thanks to</sub>  
+</p>
+
+<p align="center">
+  <a href="https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship">
+    <img src="assets/latitude-dark.png" alt="Latitude Logo" width="700"/>
+  </a>
+</p>
+
+<div align="center" markdown="1">
+
+### [Issue Tracking for AI Agents](https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship)  
+[Open Source Monitoring platform](https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship)
+
+</div>
+
+---
+<p align="center">
   Support my work here: 
   <a href="https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Bags.fm</a> •
   <a href="https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Jupiter</a> •
@@ -53,7 +71,7 @@ Thank you for your support!
 
 Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
 
-[Get Started](mailto:lucknitelol@pm.me)
+[Get Started](mailto:lucasvalbuena@pm.me)
 
 ---
 
@@ -61,7 +79,7 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 > Open an issue.
 
-> **Latest Update:** 08/03/2026
+> **Latest Update:** 10/05/2026
 
 ---
 
@@ -69,7 +87,7 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 - **X:** [NotLucknite](https://x.com/NotLucknite)
 - **Discord**: `x1xhlol`
-- **Email**: `lucknitelol@pm.me`
+- **Email**: `lucasvalbuena@pm.me`
 
 
 ## Star History
